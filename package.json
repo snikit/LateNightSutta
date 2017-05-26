@@ -1,0 +1,20 @@
+{
+  "name": "late_night_stuff",
+  "version": "1.0.0",
+  "description": "first app",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "go" : "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snikit/LateNightSutta.git"
+  },
+  "author": "snikit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snikit/LateNightSutta/issues"
+  },
+  "homepage": "https://github.com/snikit/LateNightSutta#readme"
+}
