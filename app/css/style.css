@@ -1,0 +1,33 @@
+
+body {
+	background-color: #000;
+}
+
+
+.coolh1 {
+	padding: 10px;
+	color: #fff;
+	font-family: 'Open Sans';
+	font-size: 80px;
+	font-weight: 800;
+	letter-spacing: -2px;
+	margin: 108px 0 60px;
+	position: relative;
+	text-align: center;
+	text-indent: -30px;
+}
+
+.coolh1:before {
+	
+	display: block;
+	letter-spacing: -1px;
+	position: absolute;
+	font-size: 14px;
+	font-weight: 800;
+	text-align: center;
+	top: -100px;
+	text-indent: 0px;
+	width: 100%;
+}
+
+
